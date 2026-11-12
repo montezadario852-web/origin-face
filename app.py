@@ -324,3 +324,6 @@ st.divider()
 st.caption(
     "ORIGIN FACE | Proyecto académico de investigación | 2026"
 )
+
+
+
